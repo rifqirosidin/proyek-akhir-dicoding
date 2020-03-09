@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="textview">TextView</string>
+    <string name="deskripsi_film">Deskripsi</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="change_language_settings">Ubah pengaturan bahasa</string>
+    <string name="icon_setting">icon setting</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="btn_save">Simpan</string>
+    <string name="english_us">English (us)</string>
+    <string name="pengaturan_bahasa">Pengaturan Bahasa</string>
+    <string name="tab">Film</string>
+    <string name="tab_2">Acara Tv</string>
+    <string name="tab_3">Favorit</string>
+    <string name="alert">Ubah bahasa sukses</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="favorite">Favorit</string>
+    <string name="message_delete">Apakah anda yakin?</string>
+    <string name="message_detail_delete">Menghapus item ini</string>
+    <string name="message_favorite_item">Tidak ada data</string>
+    <string name="message_add_favorite">Favorit</string>
+    <string name="title_setting_activity">Pengaturan</string>
+    <string name="title_favorite_activity">Daftar Favorit</string>
+    <string name="title_movie_detail">Detail Film</string>
+    <string name="title_tvshow_detail">Detail Acara TV</string>
+    <string name="message_sqlite_error">Data sudah ada</string>
+    <string name="icon_delette" translatable="false">icon delete</string>
+    <string name="action_search">Cari film</string>
+    <string name="searchable_search_movie">cari film</string>
+    <string name="appwidget_text">Katalog Film</string>
+    <string name="add_widget">Tambah widget</string>
+    <string name="empty_text">TIDAK ADA DATA</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="notif_repeating_message">Dicoding Katalog Film Ingin Bertemu kamu</string>
+    <string name="saveDailyReminder" translatable="false">saveDailyReminder</string>
+    <string name="saveReleaseMovieReminder" translatable="false">saveReleaseMovieReminder</string>
+    <string name="movieTitle" translatable="false">movieTitle</string>
+    <string name="release_movie_today">Rilis film hari ini</string>
+
+</resources>

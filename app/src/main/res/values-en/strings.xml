@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">List Film</string>
+    <string name="deskripsi_film">Description</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="textview">TextView</string>
+    <string name="change_language_settings">Change language settings</string>
+    <string name="icon_setting">icon setting</string>
+    <string name="indonesia">Indonesia (in)</string>
+    <string name="btn_save">Save</string>
+    <string name="english_us">English (us)</string>
+    <string name="pengaturan_bahasa">Change Language</string>
+    <string name="alert">change language success</string>
+    <string name="tab">Movie</string>
+    <string name="tab_2">Tv Show</string>
+    <string name="tab_3">Favorite</string>
+    <string name="favorite">Favorite</string>
+    <string name="message_delete">Are you sure?</string>
+    <string name="message_detail_delete">Delete this item</string>
+    <string name="message_favorite_item">No item</string>
+    <string name="message_add_favorite">Favorite</string>
+    <string name="title_setting_activity">Setting</string>
+    <string name="title_favorite_activity">Favorite List</string>
+    <string name="title_movie_detail">Detail Movie</string>
+    <string name="title_tvshow_detail">Detail TV Show</string>
+    <string name="message_sqlite_error">Data already exists</string>
+    <string name="action_search">Search movie</string>
+    <string name="searchable_search_movie">Search movie</string>
+    <string name="appwidget_text">Movie Catalog</string>
+    <string name="add_widget">Add widget</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="no_data">No data</string>
+    <string name="notif_repeating_message">Dicoding Movie Catalog want to meet you</string>
+    <string name="release_movie_today">Release Movie Today</string>
+
+</resources>
